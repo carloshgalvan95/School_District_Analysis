@@ -20,3 +20,13 @@ PICTURE HERE SCHOOL SUMMARY WNANS AND NONANS
 PICTURE HERE TOP5 AND LOWEST 5
 
 We can see here that, if we take into consideration the full sample of total students for Thomas High School, we get very low numbers. But if we take it out of the equation the results can be misleading placing Thomas High School as one of the best performing schools.
+
+## How does replacing the ninth-grade scores affect the following:
+ ### -  Math and reading scores by grade
+ There are no changes after running the analysis without the Thomas High School Ninth Graders given that the table generated is arranged by schools and grade, therefore, the only noticeable difference would be the “nan” at the 9th graders Thomas High School cell.
+ 
+ ### - Scores by school spending
+ We cannot see any noticeable differences here as well, in order to avoid analyzing misleading information, we would need to have or estimate the real scores for the ninth graders
+ 
+ ### - Scores by school size
+ ### - Scores by school type
