@@ -31,14 +31,25 @@ We can see here that, if we take into consideration the full sample of total stu
  ### -  Math and reading scores by grade
  There are no changes after running the analysis without the Thomas High School Ninth Graders given that the table generated is arranged by schools and grade, therefore, the only noticeable difference would be the “nan” at the 9th graders Thomas High School cell.
  
+ Math Scores                  |  Reading Scores
+:-------------------------:|:-------------------------:
+![Math](https://github.com/carloshgalvan95/School_District_Analysis/blob/main/Resources/scoresbygrade_math.png)  |  ![Reading](https://github.com/carloshgalvan95/School_District_Analysis/blob/main/Resources/scoresbygrade_reading.png)
+ 
+ 
  ### - Scores by school spending
  We cannot see any noticeable differences here as well, in order to avoid analyzing misleading information, we would need to have or estimate the real scores for the ninth graders.
+ 
+ ![ScoresbySpending](https://github.com/carloshgalvan95/School_District_Analysis/blob/main/Resources/scoresby_spending.png)
  
  ### - Scores by school size
  Just as we observed with the scores by school spending table, there will be no noticeable changes whenever running an analysis that consider the full scope of our sample given that we are just changing a fraction of it being the ninth-graders of Thomas High School.
  
+ ![ScoresbySize](https://github.com/carloshgalvan95/School_District_Analysis/blob/main/Resources/scoresby_size.png)
+ 
  ### - Scores by school type
  Same result, no noticeable changes given the small changes made in this new analysis.
+ 
+ ![ScoresbyType](https://github.com/carloshgalvan95/School_District_Analysis/blob/main/Resources/scoresby_type.png)
  
  # Summary
  ---
