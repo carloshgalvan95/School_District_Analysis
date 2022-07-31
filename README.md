@@ -10,7 +10,9 @@ After running the analysis for all schools, evidence of academic dishonesty was 
 ## How is the district summary affected?
 We can observe that, given the low number of students the data replaced represents, there are no noticeable changes between our first analysis and the new analysis made without Thomas High School ninth graders.
 
-PICTURES HERE DISTRICTSUMARRY_WNANS AND NONANS
+[SchoolSummary_wnans(https://github.com/carloshgalvan95/School_District_Analysis/blob/main/Resources/SchoolSummary_wnans.png)
+
+[SchoolSummary_nonans(https://github.com/carloshgalvan95/School_District_Analysis/blob/main/Resources/SchoolSummary_nonans.png)
 
 ## How is the school summary affected?
 The differences perceived from making this change start to be more noticeable when running this analysis. Given that the schools are analyzed and evaluated for the overall passing percentage or both reading and math, if we take 25% of the data, all the ninth graders, out of the equation, the results are obviously going to be rather inconclusive. 
@@ -19,7 +21,6 @@ School Summary with NaNs                   |  School Summary with no NaNs
 :-------------------------:|:-------------------------:
 ![SchoolSummary_wnans](https://github.com/carloshgalvan95/School_District_Analysis/blob/main/Resources/SchoolSummary_wnans.png)  |  ![SchoolSummary_nonans](https://github.com/carloshgalvan95/School_District_Analysis/blob/main/Resources/SchoolSummary_nonans.png)
 
-PICTURE HERE TOP5 AND LOWEST 5
 Top 5 Schools                  |  Lower 5 Schools
 :-------------------------:|:-------------------------:
 ![top5](https://github.com/carloshgalvan95/School_District_Analysis/blob/main/Resources/top5_nonans.png)  |  ![low5](https://github.com/carloshgalvan95/School_District_Analysis/blob/main/Resources/low5_nonans.png)
